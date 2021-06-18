@@ -9,4 +9,6 @@ The clients can also create an iternary based on the cities they want to travel 
 
 ![image](https://github.com/vijayabme/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
+The pop up markers on the map showing the client selected cities provide information about the hotel, weather, city, country etc
 
+![image](https://github.com/vijayabme/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
